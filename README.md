@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d39a5aa2-79bd-4cec-ba0c-884d8b2f6de8)
+
+
 📄 Deskripsi
 
 Aplikasi web NCT Album Store adalah toko online khusus yang menjual album fisik dari grup NCT. Dengan aplikasi ini, pengguna dapat:
